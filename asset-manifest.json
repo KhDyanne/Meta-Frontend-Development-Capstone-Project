@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Meta-Frontend-Development-Capstone-Project/static/css/main.510a9332.css",
+    "main.js": "/Meta-Frontend-Development-Capstone-Project/static/js/main.f4db7b9a.js",
+    "static/js/453.3db2155f.chunk.js": "/Meta-Frontend-Development-Capstone-Project/static/js/453.3db2155f.chunk.js",
+    "static/media/main_pic.jpg": "/Meta-Frontend-Development-Capstone-Project/static/media/main_pic.e8abf5b772b6817189aa.jpg",
+    "static/media/Logo .svg": "/Meta-Frontend-Development-Capstone-Project/static/media/Logo .fd87fc34e15316b670ea115ce700cd15.svg",
+    "index.html": "/Meta-Frontend-Development-Capstone-Project/index.html",
+    "main.510a9332.css.map": "/Meta-Frontend-Development-Capstone-Project/static/css/main.510a9332.css.map",
+    "main.f4db7b9a.js.map": "/Meta-Frontend-Development-Capstone-Project/static/js/main.f4db7b9a.js.map",
+    "453.3db2155f.chunk.js.map": "/Meta-Frontend-Development-Capstone-Project/static/js/453.3db2155f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.510a9332.css",
+    "static/js/main.f4db7b9a.js"
+  ]
+}
